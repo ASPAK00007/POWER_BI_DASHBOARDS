@@ -38,6 +38,7 @@ Power Query
 
 
 Contact:
-📧 Email: mrak51268@gmail.com
 
-💼 LinkedIn: ASPAK00007
+Email: mrak51268@gmail.com
+
+LinkedIn: ASPAK00007
